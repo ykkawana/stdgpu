@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['pointer',['pointer',['../classstdgpu_1_1deque.html#aec1fb4f14afe00f762b0bb50689bb468',1,'stdgpu::deque::pointer()'],['../structstd_1_1iterator__traits_3_01stdgpu_1_1device__ptr_3_01T_01_4_01_4.html#a30905005fa1da3037db5f6e176f83eab',1,'std::iterator_traits&lt; stdgpu::device_ptr&lt; T &gt; &gt;::pointer()'],['../structstd_1_1iterator__traits_3_01stdgpu_1_1host__ptr_3_01T_01_4_01_4.html#ad76ba3bcef5c6564810e2e23267b8e60',1,'std::iterator_traits&lt; stdgpu::host_ptr&lt; T &gt; &gt;::pointer()'],['../classstdgpu_1_1unordered__map.html#a902a2965946e6f491860ba226090dd31',1,'stdgpu::unordered_map::pointer()'],['../classstdgpu_1_1unordered__set.html#a1642c7be04e838a56d4cc7c53e82b56f',1,'stdgpu::unordered_set::pointer()'],['../classstdgpu_1_1vector.html#a8adb2ad02af226f038f495da8e7e905b',1,'stdgpu::vector::pointer()']]]
+];

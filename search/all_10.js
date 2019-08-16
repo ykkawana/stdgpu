@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['range_5fcheck',['RANGE_CHECK',['../memory_8h.html#a498262251e8954f199c8010f08cb79caae11b8659393425af54b08bfa9bc3607e',1,'memory.h']]],
+  ['ranges_2eh',['ranges.h',['../ranges_8h.html',1,'']]],
+  ['reference',['reference',['../classstdgpu_1_1deque.html#a3c76f06f9d1ee1f9d8e9aaa8d6640ea7',1,'stdgpu::deque::reference()'],['../structstd_1_1iterator__traits_3_01stdgpu_1_1device__ptr_3_01T_01_4_01_4.html#a07623468acae1d80d1a713635129bb98',1,'std::iterator_traits&lt; stdgpu::device_ptr&lt; T &gt; &gt;::reference()'],['../structstd_1_1iterator__traits_3_01stdgpu_1_1host__ptr_3_01T_01_4_01_4.html#a842e2f21b49316eafa415cdf2036e5cd',1,'std::iterator_traits&lt; stdgpu::host_ptr&lt; T &gt; &gt;::reference()'],['../classstdgpu_1_1queue.html#a35b70630eb5250f3539e948a98a920da',1,'stdgpu::queue::reference()'],['../classstdgpu_1_1stack.html#ad2c0cfd49c1ea2381a78f67851785487',1,'stdgpu::stack::reference()'],['../classstdgpu_1_1unordered__map.html#af50628d953b4e8bedf0b9d7500528d13',1,'stdgpu::unordered_map::reference()'],['../classstdgpu_1_1unordered__set.html#acb6373ab612a05d7c793ae142ad83543',1,'stdgpu::unordered_set::reference()'],['../classstdgpu_1_1vector.html#a2ec5b640bfa5925d46d5212c3b657a98',1,'stdgpu::vector::reference()']]],
+  ['rem',['rem',['../structstdgpu_1_1sizediv__t.html#a0e59ba1eee826da60e762ad2c154a066',1,'stdgpu::sizediv_t']]],
+  ['reset',['reset',['../classstdgpu_1_1bitset.html#a3dd4958231606ae33bd6f29c0ffb1a6d',1,'stdgpu::bitset::reset()'],['../classstdgpu_1_1bitset.html#a37f8132bbd1c803e8c4be27b03802ce2',1,'stdgpu::bitset::reset(const index_t n)']]]
+];

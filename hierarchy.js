@@ -1,0 +1,58 @@
+var hierarchy =
+[
+    [ "stdgpu::atomic< T >", "classstdgpu_1_1atomic.html", null ],
+    [ "stdgpu::atomic< int >", "classstdgpu_1_1atomic.html", null ],
+    [ "stdgpu::atomic< unsigned int >", "classstdgpu_1_1atomic.html", null ],
+    [ "stdgpu::atomic_ref< T >", "classstdgpu_1_1atomic__ref.html", null ],
+    [ "stdgpu::atomic_ref< int >", "classstdgpu_1_1atomic__ref.html", null ],
+    [ "stdgpu::atomic_ref< unsigned int >", "classstdgpu_1_1atomic__ref.html", null ],
+    [ "stdgpu::bitset", "classstdgpu_1_1bitset.html", null ],
+    [ "stdgpu::default_allocator_traits", "structstdgpu_1_1default__allocator__traits.html", null ],
+    [ "stdgpu::deque< T >", "classstdgpu_1_1deque.html", null ],
+    [ "stdgpu::device_range< T >", "classstdgpu_1_1device__range.html", null ],
+    [ "stdgpu::hash< E >", "structstdgpu_1_1hash.html", null ],
+    [ "stdgpu::hash< bool >", "structstdgpu_1_1hash_3_01bool_01_4.html", null ],
+    [ "stdgpu::hash< char >", "structstdgpu_1_1hash_3_01char_01_4.html", null ],
+    [ "stdgpu::hash< char16_t >", "structstdgpu_1_1hash_3_01char16__t_01_4.html", null ],
+    [ "stdgpu::hash< char32_t >", "structstdgpu_1_1hash_3_01char32__t_01_4.html", null ],
+    [ "stdgpu::hash< double >", "structstdgpu_1_1hash_3_01double_01_4.html", null ],
+    [ "stdgpu::hash< float >", "structstdgpu_1_1hash_3_01float_01_4.html", null ],
+    [ "stdgpu::hash< int >", "structstdgpu_1_1hash_3_01int_01_4.html", null ],
+    [ "stdgpu::hash< long >", "structstdgpu_1_1hash_3_01long_01_4.html", null ],
+    [ "stdgpu::hash< long double >", "structstdgpu_1_1hash_3_01long_01double_01_4.html", null ],
+    [ "stdgpu::hash< long long >", "structstdgpu_1_1hash_3_01long_01long_01_4.html", null ],
+    [ "stdgpu::hash< short >", "structstdgpu_1_1hash_3_01short_01_4.html", null ],
+    [ "stdgpu::hash< signed char >", "structstdgpu_1_1hash_3_01signed_01char_01_4.html", null ],
+    [ "stdgpu::hash< unsigned char >", "structstdgpu_1_1hash_3_01unsigned_01char_01_4.html", null ],
+    [ "stdgpu::hash< unsigned int >", "structstdgpu_1_1hash_3_01unsigned_01int_01_4.html", null ],
+    [ "stdgpu::hash< unsigned long >", "structstdgpu_1_1hash_3_01unsigned_01long_01_4.html", null ],
+    [ "stdgpu::hash< unsigned long long >", "structstdgpu_1_1hash_3_01unsigned_01long_01long_01_4.html", null ],
+    [ "stdgpu::hash< unsigned short >", "structstdgpu_1_1hash_3_01unsigned_01short_01_4.html", null ],
+    [ "stdgpu::hash< wchar_t >", "structstdgpu_1_1hash_3_01wchar__t_01_4.html", null ],
+    [ "stdgpu::host_range< T >", "classstdgpu_1_1host__range.html", null ],
+    [ "std::iterator_traits< stdgpu::device_ptr< T > >", "structstd_1_1iterator__traits_3_01stdgpu_1_1device__ptr_3_01T_01_4_01_4.html", null ],
+    [ "std::iterator_traits< stdgpu::host_ptr< T > >", "structstd_1_1iterator__traits_3_01stdgpu_1_1host__ptr_3_01T_01_4_01_4.html", null ],
+    [ "stdgpu::mutex_array", "classstdgpu_1_1mutex__array.html", null ],
+    [ "stdgpu::mutex_ref", "classstdgpu_1_1mutex__ref.html", null ],
+    [ "stdgpu::numeric_limits< T >", "structstdgpu_1_1numeric__limits.html", null ],
+    [ "stdgpu::queue< T, ContainerT >", "classstdgpu_1_1queue.html", null ],
+    [ "stdgpu::safe_device_allocator< T >", "structstdgpu_1_1safe__device__allocator.html", null ],
+    [ "stdgpu::safe_managed_allocator< T >", "structstdgpu_1_1safe__managed__allocator.html", null ],
+    [ "stdgpu::safe_pinned_host_allocator< T >", "structstdgpu_1_1safe__pinned__host__allocator.html", null ],
+    [ "stdgpu::sizediv_t", "structstdgpu_1_1sizediv__t.html", null ],
+    [ "stdgpu::stack< T, ContainerT >", "classstdgpu_1_1stack.html", null ],
+    [ "stdgpu::transform_range< R, UnaryFunction >", "classstdgpu_1_1transform__range.html", null ],
+    [ "type", null, [
+      [ "stdgpu::insert_iterator< Container >", "classstdgpu_1_1insert__iterator.html", null ]
+    ] ],
+    [ "type", null, [
+      [ "stdgpu::back_insert_iterator< Container >", "classstdgpu_1_1back__insert__iterator.html", null ]
+    ] ],
+    [ "type", null, [
+      [ "stdgpu::front_insert_iterator< Container >", "classstdgpu_1_1front__insert__iterator.html", null ]
+    ] ],
+    [ "stdgpu::unordered_map< Key, T, Hash, KeyEqual >", "classstdgpu_1_1unordered__map.html", null ],
+    [ "stdgpu::unordered_set< Key, Hash, KeyEqual >", "classstdgpu_1_1unordered__set.html", null ],
+    [ "stdgpu::vector< T >", "classstdgpu_1_1vector.html", null ],
+    [ "stdgpu::vector< index_t >", "classstdgpu_1_1vector.html", null ]
+];
